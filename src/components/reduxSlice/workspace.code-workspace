@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../udemy-typescript"
+		},
+		{
+			"path": "../../../../redux-shopping-cart"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
